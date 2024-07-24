@@ -23,7 +23,7 @@ python3 main.py
 
 ### Windows
 Скачать последнюю версию из [Release](https://github.com/CipherDecoder/VigenereTool/releases)
-Распаковать, открыть CMD и запустить с помощью
+распаковать, открыть CMD и запустить с помощью
 ```
 python3 main.py
 ```
